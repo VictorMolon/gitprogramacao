@@ -1,5 +1,3 @@
-# Curso
+# Curso de Git
 
-# meu deus
-
-# mudanças
+## Salvando alterações no Git
